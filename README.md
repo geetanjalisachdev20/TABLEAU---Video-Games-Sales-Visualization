@@ -22,6 +22,6 @@ The analysis involves various visualizations to explore different aspects of the
 15.	Games with an "E" rating have shown the highest increase in global sales over time.
 16.	The critic scores tend to be higher than the user scores for every genre, indicating a difference in opinions between critics and users.
 17.	North America had the highest sales in 1989, while Europe had the highest sales in 2016.
-18.	
+
 In conclusion, this analysis provides valuable insights into video game sales trends, genre preferences, regional variations, and the impact of ratings and reviews on game popularity. The findings can be used to understand market dynamics, target specific audiences, and inform business decisions within the video game industry.
 
