@@ -1,7 +1,10 @@
 # TABLEAU---Video-Games-Sales-Visualization
 **Project Summary: Video Game Sales Analysis**
+
 This project focuses on analysing video game sales data on Tableau through data visualizations to gain insights into the industry. Video games have become an integral part of the entertainment industry since the 1980s, and their commercial importance has been increasing, driven by emerging markets and mobile games. The dataset used for this analysis contains records from 1989 to 2016 and includes information such as the name of the video game, platform, year of release, genre, publisher, sales data from different regions, critic and user scores, developer, and rating.
+
 The analysis involves various visualizations to explore different aspects of the dataset. Key findings include:
+
 1.	Action and Sports genres are the most popular among video games.
 2.	Electronic Arts is the publisher with the highest number of games released.
 3.	The number of video games being released has shown a gradual increase, with a preference for Action and Sports genres.
@@ -19,5 +22,6 @@ The analysis involves various visualizations to explore different aspects of the
 15.	Games with an "E" rating have shown the highest increase in global sales over time.
 16.	The critic scores tend to be higher than the user scores for every genre, indicating a difference in opinions between critics and users.
 17.	North America had the highest sales in 1989, while Europe had the highest sales in 2016.
+18.	
 In conclusion, this analysis provides valuable insights into video game sales trends, genre preferences, regional variations, and the impact of ratings and reviews on game popularity. The findings can be used to understand market dynamics, target specific audiences, and inform business decisions within the video game industry.
 
